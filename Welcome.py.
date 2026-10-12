@@ -1,0 +1,8 @@
+
+# Welcome Program
+# This program asks for a first name and displays a greeting.
+
+first_name = input("Enter your first name: ")
+
+print("Welcome, " + first_name + "!")
+print("Thank you for checking out my Python project.")
